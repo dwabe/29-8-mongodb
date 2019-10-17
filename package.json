@@ -1,0 +1,26 @@
+{
+  "name": "29-8-mongodb",
+  "version": "1.0.0",
+  "description": "1st mongodb installation",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dwabe/29-8-mongodb.git"
+  },
+  "keywords": [
+    "mongodb",
+    "mongoose"
+  ],
+  "author": "bebe",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dwabe/29-8-mongodb/issues"
+  },
+  "homepage": "https://github.com/dwabe/29-8-mongodb#readme",
+  "dependencies": {
+    "mongoose": "^5.7.5"
+  }
+}
